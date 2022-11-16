@@ -12,9 +12,11 @@ However, some of the workflows contain too many packages and cover too many ques
 
 ## What I have learned & Evaluation
 
-I learned how to get biological files from relevant databases, how to performe basic analysis with bioconductor packages and workflows. I also learned how to make simple cheetsheet with powerpoint.
+I learned how to get biological files from relevant databases, how to perform basic analysis with bioconductor packages and workflows. I also learned how to make simple cheetsheet with powerpoint.
 
 The workload is large, but its application scenario is relatively small (because it is not a common problem). In the future, I want to simplify more workflow in bioconductor. Also, explanations of some biological concepts can be added to the cheetsheet so that people without prior knowledge in the field can use bioconductor too.
+
+**Github links:** https://github.com/Zhao-YS/22fall_EDAV_CC
 
 **Citations:**
 1. https://www.bioconductor.org/
